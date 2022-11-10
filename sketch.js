@@ -48,7 +48,7 @@ function preload(){
   player2_LeftA = loadAnimation("res/Player2 leftA #1.png", "res/Player2 leftA #2.png");
 
   //Etc
-  lifeIcon = loadImage("res/Lifeicon.png");
+  lifeIcon = loadImage("res/LifeIcon.png");
   medkit = loadImage("res/Medkit.png");
   staminaIcon = loadImage("res/StaminaIcon.png");
 
